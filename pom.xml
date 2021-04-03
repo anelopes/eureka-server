@@ -8,11 +8,11 @@
 		<version>2.1.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.alura.microservice.eureka</groupId>
-	<artifactId>eureka-server</artifactId>
+	<groupId>br.com.alopes.microservice</groupId>
+	<artifactId>ms-eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>eureka-server</name>
-	<description>Eureka Server</description>
+	<name>ms-eureka-server</name>
+	<description>Projeto para exemplificar o uso de uma API do Servidor Eureka</description>
 
 	<properties>
 		<java.version>1.8</java.version>
